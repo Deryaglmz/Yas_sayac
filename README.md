@@ -91,3 +91,5 @@ const styles = StyleSheet.create({
   },
 });
 ```
+
+https://github.com/Deryaglmz/Yas_sayac/assets/129391768/bad538bb-0039-4fd5-a894-2b8b4c3ae69d
