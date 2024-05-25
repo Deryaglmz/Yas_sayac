@@ -91,10 +91,3 @@ const styles = StyleSheet.create({
   },
 });
 ```
-
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır - ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
-```
-
-Bu README, projenizin genel bir özetini, nasıl başlayacağınızı, kodun kısa bir açıklamasını ve uygulamanın nasıl çalıştırılacağını sağlar. İhtiyaçlarınıza ve proje ayrıntılarınıza göre daha fazla özelleştirebilirsiniz.
